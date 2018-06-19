@@ -34,7 +34,7 @@ testcopy.describe()
 
 # In[]
 testcopy = testcopy.drop(['Name'], axis = 1)
-
+#
 # In[]
 
 testcopy.head()
